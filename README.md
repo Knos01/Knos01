@@ -1,1 +1,1 @@
-[![Knos01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knos01&count_private=true&show_icons=true&bg_color=00000000&hide=stars,issues)](https://github.com/Knos01/github-readme-stats)
+[![Knos01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knos01&count_private=true&show_icons=true&bg_color=040722&text_color=cfe2ff&title_color=cfe2ff&icon_color=1988f7&hide=stars,issues)](https://github.com/Knos01/github-readme-stats)
