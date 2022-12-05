@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Knos01&count_private=true&show_icons=true&include_all_commits=true&bg_color=DEG,040722,020722,010777&text_color=cfe2ff&title_color=cfe2ff&icon_color=1988f7&ring_color=1988f7&hide=stars,issues&line_height=39&hide_border=true"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knos01&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knos01&layout=compact&langs_count=3&exclude_repo=MST-LISP)](https://github.com/anuraghazra/github-readme-stats"/>
 
 <img width="10%"/>
 
